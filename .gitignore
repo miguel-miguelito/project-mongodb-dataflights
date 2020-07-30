@@ -1,0 +1,5 @@
+# VSCode repo settings
+.vscode
+
+# JSON data files
+*.json
